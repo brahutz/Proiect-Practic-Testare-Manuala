@@ -1,0 +1,1 @@
+# Proiect-Practic-Testare-Manuala
