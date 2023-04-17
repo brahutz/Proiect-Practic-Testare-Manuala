@@ -6,7 +6,7 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/IulianB0/Proiect-Practic-Testare-Manuala#1-testing-section) 
+**The final project will be split into 2 sections: [Testing section](https://github.com/brahutz/Proiect-Practic-Testare-Manuala#1-testing-section) 
 and [SQL section](https://github.com/IulianB0/Proiect-Practic-Testare-Manuala#2-sql-section).**
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench. 
