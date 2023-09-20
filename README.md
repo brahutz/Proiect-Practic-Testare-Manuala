@@ -2,9 +2,8 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
-Application under test: https://opensource-demo.orangehrmlive.com/
-
-API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
+Application under test:
+https://www.cropp.com/ro/ro/
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/brahutz/Proiect-Practic-Testare-Manuala#1-testing-section) 
 and [SQL section](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/blob/main/README.md#2-sql-section).**
@@ -122,13 +121,13 @@ The following elements are needed to be ready before the test execution phase be
 
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](Link)
-* Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23 
-* A number of 23 test cases were planned for execution and all of them were executed
-* A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
+* Test execution chart was generated, the final report shows that a number 1 tests have failed of a total of 10 
+* A number of 10 test cases were planned for execution and all of them were executed
+* A number of 2 total bugs were found, from which the priority is: 2 are high
 
 ![image](https://user-images.githubusercontent.com/99291143/163691281-5ccb211d-c101-40ea-bb64-1a4f65f8e1b1.png)
 
 
-# 2 SQL section
+# 2 Practice section
 
-Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [dependents.sql](Link)
+Created a database named 'orangehrm' and a table named '
