@@ -22,22 +22,15 @@ The below Story was created in JIRA and describes the functionality of the login
 
 The Test Plan is designed to describe all details of testing for the Dependants module from the OrangeHRM application. 
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the resources and schedule required to complete testing, and the risks associated with the plan
 
-#### 1.1.1 Roles assigned to the project and persons allocated
-
-* Project manager - Andrei Popescu
-* Product owner - Madalina Ionescu
-* Software developer - Gabriela Tomescu
-* QA Engineer - Iulia Albu
-
-#### 1.1.2 Entry criteria defined
+#### 1.1.1 Entry criteria defined
 
 * functional specifications are defined
 * roles needed for the project are allocated
 * initial project risks were detected and mitigated
 
-#### 1.1.3 Exit criteria defined
+#### 1.1.2 Exit criteria defined
 
 * number of unresolved bugs is insignificant or they have low priority
 * all tests have been executed
@@ -46,17 +39,17 @@ The plan identifies the items to be tested, the features to be tested, the types
 * no detected major risk remained un-mitigated
 * exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 
-#### 1.1.4 Test scope
+#### 1.1.3 Test scope
 
 * __Tests in scope:__ All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 * __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 
-#### 1.1.5 Risks detected
+#### 1.1.4 Risks detected
 
 * Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
 * Product risks: validation constraints on the fields might be too restrictive to the end-user
 
-#### 1.1.6 Evaluating entry criteria
+#### 1.1.5 Evaluating entry criteria
 
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
 
