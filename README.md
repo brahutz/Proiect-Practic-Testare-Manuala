@@ -81,8 +81,6 @@ are boundary value analysis, equivalence partitioning and use case testing.
 
 The test cases with steps can be viewed here: [Dependents_test_cases.pdf](Link)
 
-For the Dependants API, the following checklist was generated: [API_test_checklist.csv](Link)
-
 
 ## 1.5 Test Implementation
 
