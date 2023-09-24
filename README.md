@@ -37,11 +37,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 * all resolved bugs have been re-tested and approved by the QA team
 * deadline was reached
 * no detected major risk remained un-mitigated
-* exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 
 #### 1.1.3 Test scope
 
-* __Tests in scope:__ All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests in scope:__ All the feature of Login Page module which were defined in software requirement specs need to be teste
 * __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.4 Risks detected
@@ -56,7 +55,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 ## 1.2 Test Monitoring and Control
 
 Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
-The following status report was generated after 40% of the test cases were executed, on 1st of April 2022:
+The following status report was generated after 100% of the test cases were executed, on September 24, 2023:
 
 ![image](https://user-images.githubusercontent.com/99291143/163689699-e0295daa-e5dc-4e87-a984-546d9351fbac.png)
 
