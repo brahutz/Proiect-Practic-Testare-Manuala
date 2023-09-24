@@ -5,9 +5,6 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Application under test:
 https://www.cropp.com/ro/ro/
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/brahutz/Proiect-Practic-Testare-Manuala#1-testing-section) 
-and [SQL section](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/blob/main/README.md#2-sql-section).**
-
 Tools used: JIRA, Zephyr Squad
 
 # Functional specifications
