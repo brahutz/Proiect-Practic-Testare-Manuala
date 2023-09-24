@@ -106,9 +106,4 @@ The following elements are needed to be ready before the test execution phase be
 * A number of 10 test cases were planned for execution and all of them were executed
 * A number of 2 total bugs were found, from which the priority is: 2 are high
 
-![image](https://user-images.githubusercontent.com/99291143/163691281-5ccb211d-c101-40ea-bb64-1a4f65f8e1b1.png)
-
-
-# 2 Practice section
-
-Created a database named 'orangehrm' and a table named '
+![Tese Execution 2](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/d0473f30-cb04-461b-8a00-28a563428793)
