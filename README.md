@@ -12,10 +12,9 @@ Tools used: JIRA, Zephyr Squad
 
 # Functional specifications
 
-The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon. 
+The below Story was created in JIRA and describes the functionality of the login page
 
-![image](https://user-images.githubusercontent.com/99291143/163687093-6f1780d1-2808-4038-9ae2-65c22540a55c.png)
-
+![Story DB-3](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/e742ebc1-a285-49ea-9c2d-5f25410f0fe2)
 
 # 1 Testing section
 
