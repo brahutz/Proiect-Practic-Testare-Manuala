@@ -75,40 +75,33 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are boundary value analysis, equivalence partitioning and use case testing.
 
 **Test cases:**
+![Tese Cases](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/f159206b-d0ad-4e5b-ac83-f5597ee55db6)
 
-![image](https://user-images.githubusercontent.com/99291143/163688901-26234e0a-abfa-4034-93bf-bca37ad2b50c.png)
-
-
-The test cases with steps can be viewed here: [Dependents_test_cases.pdf](Link)
-
+The test cases with steps can be viewed here: https://itfclasses.atlassian.net/projects/DB?selectedItem=com.thed.zephyr.je__cycle-summary
 
 ## 1.5 Test Implementation
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+* Testing environment is up and running: https://www.cropp.com/ro/ro/
 * Access to the testing environment is given: Username : Admin | Password : admin123
 * Cycle summary was created 
 * Test cases were added to the cycle summary
-* Postman collection with the dependents API methods was created 
-* Authorization token was created for accessing the API
+
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf](Link)
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](Link)
-    *  Date format is not dd/mm/yyyy
-    *  Future "Date of Birth" can be selected from calendar
-    *  Only 50 characters are allowed for "Please Specify" field
-    *  Only 50 characters are allowed for "Name" field
-    *  Relationship "parent" is missing
-* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API](Link)
+* Test cases are executed on the created test Cycle summary: https://itfclasses.atlassian.net/projects/DB?selectedItem=com.thed.zephyr.je__cycle-summary
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [DB-11(Bug).pdf](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/files/12708493/DB-11.Bug.pdf)
+  [DB-10(Bug).pdf](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/files/12708494/DB-10.Bug.pdf)
+
 * Full regression testing is needed after the bugs are fixed
 
 ## 1.7 Test Completion
 
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](Link)
+* The traceability matrix was generated and can be found here:![Traceability Matrix](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/51b4aa13-2b92-40e8-89f7-f713c1747f26)
+
 * Test execution chart was generated, the final report shows that a number 1 tests have failed of a total of 10 
 * A number of 10 test cases were planned for execution and all of them were executed
 * A number of 2 total bugs were found, from which the priority is: 2 are high
