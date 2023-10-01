@@ -44,15 +44,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.4 Risks detected
 
 * Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
-* Product risks: validation constraints on the fields might be too restrictive to the end-user
+* Product risks: The website may not render correctly or function properly on different web browsers such as Chrome, Firefox, Safari, and Internet Explorer.
 
 #### 1.1.5 Evaluating entry criteria
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue. 
 
 ## 1.2 Test Monitoring and Control
 
-Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
+Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 The following status report was generated after 100% of the test cases were executed, on September 24, 2023:
 
 ![Test Execution](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/0f98aaf6-8114-46e4-be49-123ad54e97d8)
