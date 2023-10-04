@@ -100,7 +100,8 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.7 Test Completion
 
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-* The traceability matrix was generated and can be found here:![Traceability Matrix](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/51b4aa13-2b92-40e8-89f7-f713c1747f26)
+* The traceability matrix was generated and can be found here:
+* ![Traceability Matrix](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/4e6c270e-8961-44e6-956e-0cf335eb98d7)
 
 * Test execution chart was generated, the final report shows that a number 1 tests have failed of a total of 10 
 * A number of 10 test cases were planned for execution and all of them were executed
