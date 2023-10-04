@@ -89,7 +89,9 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: https://itfclasses.atlassian.net/projects/DB?selectedItem=com.thed.zephyr.je__cycle-summary
+* Test cases are executed on the created test Cycle summary:
+* ![Test Cases1](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/ac70259d-859d-467c-b87a-6a40b606cec2)
+
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [DB-11(Bug).pdf](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/files/12708493/DB-11.Bug.pdf)
   [DB-10(Bug).pdf](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/files/12708494/DB-10.Bug.pdf)
 
