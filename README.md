@@ -75,8 +75,6 @@ are boundary value analysis, equivalence partitioning and use case testing.
 **Test cases:**
 ![Test Cases](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/56483d16-fa15-49db-b91e-d1f4a1e418ed)
 
-The test cases with steps can be viewed here: https://itfclasses.atlassian.net/projects/DB?selectedItem=com.thed.zephyr.je__cycle-summary
-
 ## 1.5 Test Implementation
 
 The following elements are needed to be ready before the test execution phase begins:
