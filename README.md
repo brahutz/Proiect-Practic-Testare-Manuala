@@ -54,8 +54,9 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 The following status report was generated after 100% of the test cases were executed, on September 24, 2023:
+![test monitoring and control](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/2761a4fe-d049-4bcc-a204-92c76e2cacb5)
 
-![Test Execution](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/0f98aaf6-8114-46e4-be49-123ad54e97d8)
+
 
 ## 1.3 Test Analysis
 
