@@ -93,8 +93,8 @@ The following elements are needed to be ready before the test execution phase be
 * ![Test Cases3](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/822c51ed-3315-4ddc-baca-9afd93b17d01)
 
 
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [DB-11(Bug).pdf](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/files/12708493/DB-11.Bug.pdf)
-  [DB-10(Bug).pdf](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/files/12708494/DB-10.Bug.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [DB-10 + DB-11.pdf](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/files/12840996/DB-10.%2B.DB-11.pdf)
+
 
 * Full regression testing is needed after the bugs are fixed
 
