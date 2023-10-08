@@ -74,7 +74,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are boundary value analysis, equivalence partitioning and use case testing.
 
 **Test cases:**
-![Test Cases](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/56483d16-fa15-49db-b91e-d1f4a1e418ed)
+![Test Cases2](https://github.com/brahutz/Proiect-Practic-Testare-Manuala/assets/130207713/e494c916-bfbd-4448-8226-a7993c915482)
 
 ## 1.5 Test Implementation
 
